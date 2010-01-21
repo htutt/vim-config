@@ -1,7 +1,7 @@
 VIM IDE for C, Python and Golang
 ================================
 
-* VIM_version: Vi IMproved 7 and up::
+* VIM_version: Vi IMproved 7 and up
 
 * Plugins | Directories::
 
