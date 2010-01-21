@@ -5,19 +5,18 @@ VIM IDE for C, Python and Golang
     Folder: ~/.vim
     File: ~/.vimrc
 
- +--------------------------------------------------------------+
- | Plugins                  | Directories                       |
- +--------------------------------------------------------------+
- | cvim v5.9                | ~/.vim/plugin/c.vim and others    |
- | taglist v4.5             | ~/.vim/plugin/taglist.vim         |
- | cppcomplete v6.1         | ~/.vim/plugin/cppcomplete.vim     |
- | project v1.4.1           | ~/.vim/plugin/project.vim         |
- | NERD_tree v4.1.0         | ~/.vim/plugin/NERD_tree.vim       |
- | omnicppcomplete v0.41    | ~/.vim/autoload/omni/cpp          |
- | pythoncomplete v0.9      | ~/.vim/autoload/pythoncomplete.vim|
- | python.vim v3.0          | ~/.vim/syntax/python3.0.vim       |
- | govim                    | ~/.vim/syntax/go.vim              |
- +--------------------------------------------------------------+
+
+* Plugins | Directories::
+
+    cvim v5.9                | ~/.vim/plugin/c.vim and others
+    taglist v4.5             | ~/.vim/plugin/taglist.vim
+    cppcomplete v6.1         | ~/.vim/plugin/cppcomplete.vim
+    project v1.4.1           | ~/.vim/plugin/project.vim
+    NERD_tree v4.1.0         | ~/.vim/plugin/NERD_tree.vim
+    omnicppcomplete v0.41    | ~/.vim/autoload/omni/cpp
+    pythoncomplete v0.9      | ~/.vim/autoload/pythoncomplete.vim
+    python.vim v3.0          | ~/.vim/syntax/python.0.vim
+    govim                    | ~/.vim/syntax/go.vim
 
 
 Current details of basic
